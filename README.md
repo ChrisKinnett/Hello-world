@@ -1,2 +1,5 @@
 # Hello-world
-Join another repository
+
+Hi, Chris here!
+
+Learning to understand code not write code.
